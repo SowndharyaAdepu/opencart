@@ -1,0 +1,7 @@
+14:52:59.082 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Strating TC_001_AccountRegistrationtTest
+14:52:59.230 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Clicked on My Account 
+14:52:59.827 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Clicked on Register 
+14:53:00.022 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Provided First Name 
+14:53:00.139 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Provided Last Name 
+14:53:00.266 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Provided Email 
+14:54:30.198 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
